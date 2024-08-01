@@ -1,16 +1,15 @@
-## Hi there 👋
+### Bem-vindo ao meu repositório 😍🍒
 
-<!--
-**Eyshila03/Eyshila03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Atualmente soi aluna do 1 ano do ensino médio, na Escola Izabel 
+de Almeida Maein;
+- Escola trabalho em projetos **Scratch** **JavaScript** e **HTML** no **P5JS**🙄;
+- Para contato ou dúvidas, me envie um e-mail
+  *00001115878268sp@al.educacao.sp.gov.br*🎀
 
-Here are some ideas to get you started:
+![](https://media1.tenor.com/m/a8Z2lXOKd68AAAAC/lana-del-rey-kiss.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+   
+ - 
